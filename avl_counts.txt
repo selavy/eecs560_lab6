@@ -1,0 +1,93 @@
+List item comparisions in insert(city): 4
+List item comparisions in insert(city): 11
+List item comparisions in insert(city): 27
+List item comparisions in insert(city): 18
+List item comparisions in insert(city): 31
+List item comparisions in insert(city): 34
+List item comparisions in insert(city): 18
+List item comparisions in insert(city): 25
+List item comparisions in insert(city): 25
+List item comparisions in insert(city): 25
+List item comparisions in insert(city): 37
+List item comparisions in insert(city): 25
+List item comparisions in insert(city): 32
+List item comparisions in insert(city): 32
+List item comparisions in insert(city): 49
+List item comparisions in insert(city): 44
+List item comparisions in insert(city): 37
+List item comparisions in insert(city): 37
+List item comparisions in insert(city): 32
+List item comparisions in insert(city): 49
+List item comparisions in insert(city): 32
+List item comparisions in insert(city): 44
+List item comparisions in insert(city): 45
+List item comparisions in insert(city): 49
+List item comparisions in insert(city): 45
+List item comparisions in remove(city): 45
+List item comparisions in insert(city): 32
+List item comparisions in insert(city): 32
+origin
+Jonestown
+EasyLanding
+PrairieMeadows
+BaldwinCity
+HendersonFlats
+Maryville
+Smithton
+AncientCity
+BridgerRange
+GhostTown
+Hooterville
+Lexington
+Monterey
+RadioCity
+Williamstown
+Anywhereville
+FortHays
+HighCityHeights
+JamesTown
+Monroeville
+MysticCaverns
+Pultneyville
+Russellville
+SnowySummit
+List item comparisions in distance(): 205
+Smithton
+BaldwinCity
+HendersonFlats
+GhostTown
+Hooterville
+MysticCaverns
+List item comparisions in distance(): 145
+Monroeville
+Pultneyville
+List item comparisions in distance(): 227
+Pultneyville
+Jonestown
+Hooterville
+Monroeville
+List item comparisions in distance(): 196
+Pultneyville
+Jonestown
+BaldwinCity
+Hooterville
+Monroeville
+List item comparisions in distance(): 196
+BridgerRange
+List item comparisions in distance(): 151
+SnowySummit
+EasyLanding
+Monterey
+JamesTown
+List item comparisions in distance(): 202
+Lexington
+PrairieMeadows
+Maryville
+Russellville
+List item comparisions in distance(): 160
+HighCityHeights
+HendersonFlats
+List item comparisions in distance(): 182
+GhostTown
+RadioCity
+List item comparisions in distance(): 154

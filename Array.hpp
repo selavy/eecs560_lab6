@@ -1,10 +1,10 @@
 #ifndef _ARRAY_HPP_
 #define _ARRAY_HPP_
 
-#include "City.hpp"
 #include <cstdlib>
 #include <iostream>
 #include <cmath>
+#include "City.hpp"
 
 #define INIT_SIZE 120
 

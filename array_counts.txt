@@ -1,0 +1,94 @@
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in insert(city): 0
+List item comparisons in remove(name): 25
+List item comparisons in insert(city): 0
+List item comparisons in remove(x,y): 25
+List item comparisons in insert(city): 0
+origin
+HendersonFlats
+PrairieMeadows
+Hooterville
+Jonestown
+JamesTown
+Maryville
+Lexington
+Williamstown
+BaldwinCity
+Pultneyville
+Monroeville
+SnowySummit
+MysticCaverns
+Smithton
+RadioCity
+AncientCity
+Anywhereville
+HighCityHeights
+Monterey
+BridgerRange
+EasyLanding
+GhostTown
+FortHays
+Russellville
+List item comparisons in print_close_cities: 50
+Smithton
+HendersonFlats
+Hooterville
+BaldwinCity
+MysticCaverns
+GhostTown
+List item comparisons in print_close_cities: 78
+Pultneyville
+Monroeville
+List item comparisons in print_close_cities: 100
+Pultneyville
+Hooterville
+Jonestown
+Monroeville
+List item comparisons in print_close_cities: 70
+Pultneyville
+Hooterville
+Jonestown
+BaldwinCity
+Monroeville
+List item comparisons in print_close_cities: 70
+BridgerRange
+List item comparisons in print_close_cities: 90
+SnowySummit
+JamesTown
+Monterey
+EasyLanding
+List item comparisons in print_close_cities: 74
+Lexington
+PrairieMeadows
+Maryville
+Russellville
+List item comparisons in print_close_cities: 64
+HighCityHeights
+HendersonFlats
+List item comparisons in print_close_cities: 86
+GhostTown
+RadioCity
+List item comparisons in print_close_cities: 94

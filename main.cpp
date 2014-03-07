@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#ifdef AVLTree
+#ifdef AVLTREE
 #include "AVLTree.hpp"
 #else
 #include "Array.hpp"
@@ -14,6 +14,7 @@ int main( int argc, char **argv ) {
   int x, y, dist;
 
 #ifdef AVLTREE
+  AVLTree db;
 #else
   Array db;
 #endif
@@ -36,8 +37,21 @@ int main( int argc, char **argv ) {
     db.insert(city);
   }
 
+#ifdef COUNT
+  City russellville;
+  russellville.name = "Russellville"; russellville.x = 8; russellville.y = 27;
+  db.remove("Russellville");
+  db.insert(russellville);
+  db.remove(8, 27);
+  db.insert(russellville);
+  
+#endif
+
   while( (test_in >> x) && (test_in >> y) && (test_in >> dist) ) {
     db.print_close_cities( x, y, dist );
+#ifdef EASY_PRINT_COMPARE
+    cout << endl;
+#endif
   }
 
   return 0;
